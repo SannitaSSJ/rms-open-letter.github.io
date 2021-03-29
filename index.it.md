@@ -14,8 +14,6 @@ C'è stata fin troppa tolleranza nei riguardi delle ripugnanti idee e comportame
 
 A tutti coloro che sono nella posizione di poterlo fare chiediamo di smettere di sostenere la Free Software Foundation. Rifiutatevi di contribuire a progetti legati a FSF e RMS. Non partecipate o prendete parte a eventi FSF o che accolgono RMS e la sua intolleranza. Chiediamo a tutti coloro che collaborano a progetti di software libero di prendere posizione contro il bigottismo e l'odio nei loro progetti, e di farlo spiegando a voce alta perché alla comunità e alla FSF.
 
-We urge those in a position to do so to stop supporting the Free Software Foundation. Refuse to contribute to projects related to the FSF and RMS. Do not speak at or attend FSF events, or events that welcome RMS and his brand of intolerance. We ask for contributors to free software projects to take a stand against bigotry and hate within their projects. While doing these things, tell these communities and the FSF why.
-
 [Abbiamo elencato diversi incidenti pubblici relativi al comportamento di RMS][1]. Alcuni di noi hanno le proprie storie da raccontare riguardo RMS e le interazioni con lui, cose che non sono state raccolte in thread di e-mail o in un video. Speriamo che leggiate quanto è stato condiviso e che consideriate il danno che ha apportato alla nostra comunità e agli altri.
 
 [1]: https://rms-open-letter.github.io/appendix
